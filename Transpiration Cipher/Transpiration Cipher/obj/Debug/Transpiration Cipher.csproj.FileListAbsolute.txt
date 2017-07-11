@@ -1,0 +1,16 @@
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\transpiration cipher.g.cs
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Window1.g.cs
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\App.g.cs
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration Cipher_MarkupCompile.cache
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration Cipher_MarkupCompile.lref
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\bin\Debug\Transpiration Cipher.exe.config
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\bin\Debug\Transpiration Cipher.exe
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\bin\Debug\Transpiration Cipher.pdb
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\transpiration cipher.baml
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Window1.baml
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration Cipher.g.resources
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration_Cipher.Properties.Resources.resources
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration Cipher.csproj.GenerateResource.Cache
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration Cipher.exe
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration Cipher.pdb
+C:\Users\Quentin Clayton\documents\visual studio 2017\Projects\Transpiration Cipher\Transpiration Cipher\obj\Debug\Transpiration Cipher.csprojResolveAssemblyReference.cache
